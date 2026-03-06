@@ -34,6 +34,7 @@ Turn your TV into a stereo system. Play your MP3, FLAC, and AAC files with a stu
 ZIP Extractor: Unzip archives directly on your device.
 Multi-Selection: Select multiple files to delete them in bulk.
 Clipboard: Copy files from one folder and paste them into another seamlessly.
+
 📺 Designed for TV
 
 No mouse required.
